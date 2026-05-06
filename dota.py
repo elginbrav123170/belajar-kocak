@@ -1,27 +1,23 @@
-import sys
-
 def solve():
-    input_data = sys.stdin.read().split()
-    if not input_data:
+    n_str = input()
+    if not n_str:
         return
+    n = int(n_str)
 
-    ptr = 0
-    
-    N = int(input_data[ptr])
-    ptr += 1
-    
     item_shop = {}
-    for _ in range(N):
-        name = input_data[ptr]
-        price = int(input_data[ptr + 1])
-        item_shop[name] = price
-        ptr += 2
-    
-    M = int(input_data[ptr])
-    ptr += 1
-    
-    items_bought = input_data[ptr : ptr + M]
-    
+    for _ in range(n):
+        data = input().split()
+        nama_item = data[0]
+        harga = int(data[1])
+        item_shop[nama_item] = harga
+
+    m_str = input()
+    if not m_str:
+        return
+    m = int(m_str)
+
+    items_bought = input().split()
+
     player_inventory = {}
     net_worth = 0
 
@@ -31,8 +27,9 @@ def solve():
             player_inventory[item] = player_inventory.get(item, 0) + 1
 
     print(f"Total Net Worth: {net_worth}")
-    for item in sorted(player_inventory.keys()):
+    
+    daftar_item_urut = sorted(player_inventory.keys())
+    for item in daftar_item_urut:
         print(f"{item}: {player_inventory[item]}")
 
-if __name__ == "__main__":
-    solve()
+solve()
