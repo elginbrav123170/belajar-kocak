@@ -1,0 +1,25 @@
+JUDUL SOAL: ELGIN DAN ANALISIS DATA HIMPUNAN
+
+DESKRIPSI:
+Elgin sedang merapikan data inventaris laboratorium Informatika di UKDW. Data tersebut dikirimkan dalam format tipe data Set Python asli. Elgin ingin mengetahui item mana saja yang bersifat "Eksklusif", yaitu item yang muncul di salah satu himpunan namun tidak muncul di keduanya (Beda Setangkup).
+
+Tugas Anda:
+1. Menerima masukan N buah data dengan tipe data Set (contoh: {'PC', 'Laptop'}).
+2. Melakukan operasi Symmetric Difference (^) pada semua set tersebut.
+3. Validasi: Program harus mengecek secara manual apakah input diawali dengan '{' dan diakhiri dengan '}'. Jika tidak sesuai, cetak "FORMAT SALAH".
+
+FORMAT MASUKAN:
+- Baris 1: Integer N (Jumlah set).
+- N Baris berikutnya: Masukan langsung berupa tipe data Set Python.
+
+FORMAT KELUARAN:
+- Judul item hasil operasi, diurutkan secara alfabetis, dipisahkan spasi.
+- Jika format input bukan merupakan Set yang valid (tanpa kurung kurawal), cetak "FORMAT SALAH".
+
+CONTOH MASUKAN:
+2
+{'Monitor', 'Mouse'}
+{'Mouse', 'Keyboard'}
+
+CONTOH KELUARAN:
+Keyboard Monitor

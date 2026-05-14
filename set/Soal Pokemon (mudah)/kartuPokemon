@@ -1,0 +1,24 @@
+"""
+SOAL: KOLEKTOR KARTU LANGKA
+---------------------------
+Deskripsi:
+Elgin memiliki N kartu. Hitunglah berapa banyak jenis kartu unik yang dimiliki 
+dengan mengabaikan duplikat.
+
+Format Masukan:
+- Baris 1: N (jumlah kartu)
+- N baris berikutnya: Nama kartu (string)
+
+Format Keluaran:
+- Satu angka yang menunjukkan jumlah kartu unik.
+
+Contoh Masukan:
+3
+Pikachu
+Charizard
+Pikachu
+
+Contoh Keluaran:
+2
+---------------------------
+"""

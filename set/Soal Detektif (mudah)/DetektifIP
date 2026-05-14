@@ -1,0 +1,31 @@
+JUDUL SOAL: ELGIN SI DETEKTIF JARINGAN (OPERASI SET)
+
+DESKRIPSI:
+Elgin adalah seorang ahli informatika di Universitas Kristen Duta Wacana yang sedang membantu tim IT kampus melacak aktivitas mencurigakan di server. 
+
+Elgin memiliki tiga daftar alamat IP yang harus dianalisis:
+1. Daftar A: IP yang mengakses pangkalan data nilai mahasiswa.
+2. Daftar B: IP yang terdeteksi melakukan serangan brute force (gagal login berulang kali).
+3. Daftar C: IP yang sudah terverifikasi sebagai IP resmi milik dosen dan staf.
+
+Tugas Elgin adalah menemukan IP yang "Sangat Berbahaya" dengan kriteria:
+- IP tersebut harus ada di (Daftar A) DAN (Daftar B).
+- Namun, IP tersebut TIDAK BOLEH ada di (Daftar C) karena itu berarti akses legal.
+
+Bantu Elgin mengeluarkan daftar IP berbahaya tersebut dalam urutan alfabetis.
+
+FORMAT MASUKAN:
+- Baris 1: Integer N (jumlah IP Daftar A) diikuti N string alamat IP.
+- Baris 2: Integer M (jumlah IP Daftar B) diikuti M string alamat IP.
+- Baris 3: Integer K (jumlah IP Daftar C) diikuti K string alamat IP.
+
+FORMAT KELUARAN:
+- Daftar IP unik yang memenuhi kriteria, diurutkan secara alfabetis, dipisahkan oleh spasi.
+
+CONTOH MASUKAN:
+3 192.168.1.1 10.0.0.1 172.16.0.5
+3 10.0.0.1 172.16.0.5 192.168.1.10
+2 172.16.0.5 8.8.8.8
+
+CONTOH KELUARAN:
+10.0.0.1
