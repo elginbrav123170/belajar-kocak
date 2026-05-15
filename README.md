@@ -1,8 +1,4 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM0NDZiMGxuYm52YTliMnE4bXAxOHVzbTAwNXRzODcxM3huOGx1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s1P4kzgXdyZK8/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
-  <br><br>
-
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="I BLAME THE ALGORITHM">
 
   <h1>🚀 Competitive Programming Journey</h1>
