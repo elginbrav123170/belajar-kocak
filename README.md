@@ -1,13 +1,13 @@
 <div align="center">
   
-  <img src="https://i.pinimg.com" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://media.tenor.com/S-K-qgZ2oZ8AAAAd/galaxy-universe.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
   <br><br>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="Animated Computer">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="I BLAME THE ALGORITHM">
 
-  # 🚀 Competitive Programming Journey
+  <h1>🚀 Competitive Programming Journey</h1>
   
-  **Kumpulan Solusi dan Algoritma oleh Elgin Brav Ekazatia**
+  <p>Kumpulan Solusi dan Algoritma oleh Elgin Brav Ekazatia</p>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Coding+in+the+Galaxy;Data+Structures+%26+Algorithms;Problem+Solving+Everyday;Python,+C%2B%2B,+C,+Java" alt="Typing SVG" />
@@ -23,33 +23,33 @@
 
 </div>
 
-## 🛠️ Tech Stack & Languages
-
-Bahasa pemrograman utama yang saya gunakan untuk memecahkan berbagai masalah algoritma, matematika diskrit, dan kriptografi:
-
 <div align="center">
+  <h2>🛠️ Tech Stack & Languages</h2>
+  <p>Bahasa pemrograman utama yang saya gunakan untuk memecahkan berbagai masalah algoritma, matematika diskrit, dan kriptografi:</p>
+  <br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
+<div align="center">
+  <h2>🌐 Platforms</h2>
+  <ul style="text-align: left; display: inline-block;">
+    <li>**[Codeforces](https://codeforces.com/)** - *Problem solving* berbasis kontes.</li>
+    <li>**[LeetCode](https://leetcode.com/)** - Persiapan *interview* dan optimalisasi struktur data.</li>
+    <li>**[HackerRank](https://www.hackerrank.com/)** - Tantangan algoritma spesifik dan logika formal.</li>
+    <li>**[TLX Toki](https://tlx.toki.id/)** - Latihan dasar dan olimpiade pemrograman.</li>
+  </ul>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
+</div>
 
-## 🌐 Platforms
-
-Solusi-solusi di repository ini mencakup berbagai *platform judge* populer:
-
-* **[Codeforces](https://codeforces.com/)** - *Problem solving* berbasis kontes.
-* **[LeetCode](https://leetcode.com/)** - Persiapan *interview* dan optimalisasi struktur data.
-* **[HackerRank](https://www.hackerrank.com/)** - Tantangan algoritma spesifik dan logika formal.
-* **[TLX Toki](https://tlx.toki.id/)** - Latihan dasar dan olimpiade pemrograman.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
-
-## 📂 Repository Structure
-
-Setiap solusi disimpan dalam folder berdasarkan *platform* dan diurutkan berdasarkan ID atau nama problem.
+<div align="center">
+  <h2>📂 Repository Structure</h2>
+</div>
 
 ```text
 📦 CP-Journey
