@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- Banner Galaxy -->
+  <img src="https://media.giphy.com/media/aB1E1p13H1Jle/giphy.gif" width="100%" height="250" style="object-fit: cover;">
+  <br><br>
+
+  <!-- Lanjutan kode README sebelumnya... -->
+  # 🚀 Competitive Programming Journey
+  **Kumpulan Solusi dan Algoritma oleh Elgin Brav Ekazatia**
+  ...
+</div>
+<div align="center">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="200" alt="Animated Computer">
 
