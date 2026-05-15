@@ -1,0 +1,45 @@
+JUDUL SOAL: ELGIN DAN INVENTARIS ALAT MUSIK (MASTER SET OPERATIONS)
+
+DESKRIPSI:
+Elgin, selain seorang mahasiswa informatika, kini merintis usaha sebagai penjual alat musik. 
+Ia memiliki N gudang penyimpanan. Karena sistem pendataan yang buruk di masa lalu, 
+satu jenis alat musik bisa saja tersebar di beberapa gudang sekaligus.
+
+Elgin ingin mengadakan promo "Langka & Eksklusif". Ia harus mencari alat musik dengan kriteria:
+1. BENAR-BENAR EKSKLUSIF: Alat musik tersebut harus tersedia di TEPAT SATU gudang saja. 
+   Jika ada di dua gudang atau lebih, alat musik itu dianggap "Pasaran".
+2. BUKAN BARANG DISKONTINU: Alat musik tersebut TIDAK BOLEH ada di dalam daftar "Discontinue" 
+   (barang yang sudah tidak diproduksi pabrik).
+
+Tugas Anda:
+Gunakan operasi himpunan (Set) untuk menemukan daftar alat musik "Langka & Eksklusif" tersebut!
+
+FORMAT MASUKAN:
+- Baris 1: Integer N (Jumlah gudang, N >= 2).
+- N Baris berikutnya: Daftar alat musik di masing-masing gudang dalam format Set Python.
+- Baris terakhir: Daftar alat musik "Discontinue" dalam format Set Python.
+
+ATURAN VALIDASI (WAJIB):
+Setiap input Set harus diawali karakter '{' dan diakhiri '}'. Jika ada satu saja baris 
+yang melanggar (termasuk daftar discontinue), segera cetak "FORMAT SALAH" dan hentikan program.
+
+FORMAT KELUARAN:
+- Daftar alat musik yang memenuhi syarat, diurutkan alfabetis, dipisahkan spasi.
+- Jika tidak ada, cetak baris kosong.
+- Jika validasi gagal, cetak "FORMAT SALAH".
+
+CONTOH MASUKAN:
+3
+{"Gitar_Akustik", "Piano", "Biola"}
+{"Piano", "Drum", "Bass"}
+{"Biola", "Saxophone"}
+{"Saxophone", "Harmonika"}
+
+CONTOH KELUARAN:
+Bass Drum Gitar_Akustik
+
+PENJELASAN:
+- Piano ada di 2 gudang -> Dibuang.
+- Biola ada di 2 gudang -> Dibuang.
+- Saxophone ada di 1 gudang, TAPI masuk daftar Discontinue -> Dibuang.
+- Gitar_Akustik, Drum, Bass ada di tepat 1 gudang dan bukan Discontinue -> Lolos.

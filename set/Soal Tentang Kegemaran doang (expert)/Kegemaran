@@ -1,0 +1,38 @@
+JUDUL SOAL: ELGIN DAN ANALISIS KOMUNITAS (ULTIMATE SET LOGIC)
+
+DESKRIPSI:
+Elgin ditugaskan untuk menganalisis data minat mahasiswa di UKDW. Data dikirimkan dalam bentuk Set Python asli (literal set). 
+Elgin harus menemukan "Minat Unik Komunitas", yaitu item yang memenuhi kriteria berikut:
+
+Kriteria "Minat Unik":
+1. Item tersebut harus muncul di setidaknya dua himpunan (bukan item yang hanya ada di satu orang).
+2. NAMUN, item tersebut TIDAK BOLEH muncul di SEMUA himpunan (item yang terlalu umum harus dibuang).
+
+Tugas Anda:
+1. Menerima N buah input tipe data Set menggunakan eval(input()).
+2. Melakukan validasi manual: Setiap input harus diawali '{' dan diakhiri '}'. Jika tidak, cetak "FORMAT SALAH".
+3. Temukan semua item yang memenuhi kriteria di atas.
+
+FORMAT MASUKAN:
+- Baris 1: Integer N (Jumlah mahasiswa/set, N >= 3).
+- N Baris berikutnya: Tipe data Set Python berisi string minat.
+
+FORMAT KELUARAN:
+- Daftar minat yang memenuhi kriteria, urutkan alfabetis, dipisahkan spasi.
+- Jika tidak ada minat yang memenuhi kriteria, cetak baris kosong.
+- Jika format input salah, cetak "FORMAT SALAH".
+
+CONTOH MASUKAN:
+4
+{"Koding", "Dota", "Musik"}
+{"Koding", "Basket", "Dota"}
+{"Musik", "Koding"}
+{"Dota", "Koding", "Renang"}
+
+CONTOH KELUARAN:
+Dota Musik
+
+PENJELASAN:
+- "Koding" muncul di semua (4) set -> Dibuang (Terlalu umum).
+- "Renang" & "Basket" hanya muncul di 1 set -> Dibuang (Kurang populer).
+- "Dota" muncul di 3 set, "Musik" muncul di 2 set -> OK.

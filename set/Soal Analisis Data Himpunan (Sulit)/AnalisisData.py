@@ -1,17 +1,16 @@
 def solve():
-    # Membaca jumlah input
     n_input = input().strip()
     n = int(n_input)
     hasil_set = set()
     status_valid = True
 
     for i in range(n):
-        raw_input = input().strip()
-        if len(raw_input) < 2 or raw_input[0] != '{' or raw_input[-1] != '}':
+        koca = input().strip()
+        if len(koca) < 2 or koca[0] != '{' or koca[-1] != '}':
             status_valid = False
             break
 
-        data_sekarang = eval(raw_input)
+        data_sekarang = eval(koca)
         
         if type(data_sekarang) != set:
             status_valid = False
