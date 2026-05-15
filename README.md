@@ -39,7 +39,9 @@
 [LeetCode](https://leetcode.com/) - Persiapan *interview* dan optimalisasi struktur data.<br>
 [HackerRank](https://www.hackerrank.com/) - Tantangan algoritma spesifik dan logika formal.<br>
 [TLX Toki](https://tlx.toki.id/) - Latihan dasar dan olimpiade pemrograman.
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</div>
 </div>
   
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
