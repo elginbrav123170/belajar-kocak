@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/3b/8c/04/3b8c04e223bdf2dce71ccfdb5ca102b4.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://i.pinimg.com" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
   <br><br>
 
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="150" alt="Animated Computer">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="Animated Computer">
 
   # 🚀 Competitive Programming Journey
   
