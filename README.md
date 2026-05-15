@@ -1,19 +1,25 @@
 <div align="center">
   
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Animated Computer">
+
   # 🚀 Competitive Programming Journey
   
   **Kumpulan Solusi dan Algoritma oleh Elgin Brav Ekazatia**
   
+  <!-- Animasi Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Competitive+Programming;Data+Structures+%26+Algorithms;Problem+Solving+Everyday;Python,+C%2B%2B,+C,+Java" alt="Typing SVG" />
+  </a>
+  <br>
+
   [![Informatics](https://img.shields.io/badge/Major-Informatics-blue.svg)](#)
   [![University](https://img.shields.io/badge/University-UKDW-purple.svg)](#)
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
   [![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)](#)
 
-  *Repository ini adalah ruang kerja digital saya untuk menyelesaikan tantangan Competitive Programming, mengasah logika, dan memperdalam pemahaman tentang struktur data serta algoritma.*
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
-
----
 
 ## 🛠️ Tech Stack & Languages
 
@@ -26,6 +32,8 @@ Bahasa pemrograman utama yang saya gunakan untuk memecahkan berbagai masalah alg
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ## 🌐 Platforms
 
 Solusi-solusi di repository ini mencakup berbagai *platform judge* populer:
@@ -34,6 +42,8 @@ Solusi-solusi di repository ini mencakup berbagai *platform judge* populer:
 *   **[LeetCode](https://leetcode.com/)** - Persiapan *interview* dan optimalisasi struktur data.
 *   **[HackerRank](https://www.hackerrank.com/)** - Tantangan algoritma spesifik dan logika formal.
 *   **[TLX Toki](https://tlx.toki.id/)** - Latihan dasar dan olimpiade pemrograman.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📂 Repository Structure
 
