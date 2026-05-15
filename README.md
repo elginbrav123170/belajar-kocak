@@ -1,8 +1,7 @@
 <div align="center">
   <div align="center">
-  <img src="https://i.pinimg.com/originals/3d/80/7e/3d807e1136b694d4d62b1b36bc755100.gif" width="100%" alt="Galaxy Banner">
+  <img src="https://i.pinimg.com/736x/6a/fd/09/6afd09d6cb67a7fe030fb9b08781c8da.jpg" width="100%" alt="Galaxy Banner">
 </div>
-  <img src="https://media.tenor.com/S-K-qgZ2oZ8AAAAd/galaxy-universe.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
   <br><br>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="I BLAME THE ALGORITHM">
