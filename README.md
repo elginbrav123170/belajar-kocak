@@ -36,13 +36,13 @@
 </div>
 
 <div align="center">
-  <h2>🌐 Platforms</h2>
-  <ul style="text-align: left; display: inline-block;">
-    <li><b><a href="https://codeforces.com/">Codeforces</a></b> - <i>Problem solving</i> berbasis kontes.</li>
-    <li><b><a href="https://leetcode.com/">LeetCode</a></b> - Persiapan <i>interview</i> dan optimalisasi struktur data.</li>
-    <li><b><a href="https://www.hackerrank.com/">HackerRank</a></b> - Tantangan algoritma spesifik dan logika formal.</li>
-    <li><b><a href="https://tlx.toki.id/">TLX Toki</a></b> - Latihan dasar dan olimpiade pemrograman.</li>
-  </ul>
+  <h3>🌐 Platforms</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li><a href="#">Codeforces</a> - <em>Problem solving</em> berbasis kontes.</li>
+  <li><a href="#">LeetCode</a> - Persiapan <em>interview</em> dan optimalisasi struktur data.</li>
+  <li><a href="#">HackerRank</a> - Tantangan algoritma spesifik dan logika formal.</li>
+  <li><a href="#">TLX Toki</a> - Latihan dasar dan olimpiade pemrograman.</li>
+</ul>
   <br><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
 </div>
