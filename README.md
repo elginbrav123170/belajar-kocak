@@ -40,7 +40,7 @@
 [HackerRank](https://www.hackerrank.com/) - Tantangan algoritma spesifik dan logika formal.<br>
 [TLX Toki](https://tlx.toki.id/) - Latihan dasar dan olimpiade pemrograman.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elginbrav123170&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=elginbrav123170&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
 </div>
 </div>
   
