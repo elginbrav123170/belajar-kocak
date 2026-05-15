@@ -1,5 +1,7 @@
 <div align="center">
-  
+  <div align="center">
+  <img src="https://i.pinimg.com/originals/3d/80/7e/3d807e1136b694d4d62b1b36bc755100.gif" width="100%" alt="Galaxy Banner">
+</div>
   <img src="https://media.tenor.com/S-K-qgZ2oZ8AAAAd/galaxy-universe.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
   <br><br>
 
