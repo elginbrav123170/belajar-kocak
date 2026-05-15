@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAwOGhneDcwZHhtM282cnJhemlsNHBnaXZzdnZlMXZjdzhuOG16NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zMukICnMEZmSf8zvXd/giphy.gif" width="150" alt="I BLAME THE ALGORITHM">
+  
+  <img src="https://media.tenor.com/S-K-qgZ2oZ8AAAAd/galaxy-universe.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;">
+  <br><br>
+
+  <img src="https://gist.github.com/assets/elginbrav/image_1.png" width="150" alt="I BLAME THE ALGORITHM">
 
   <h1>🚀 Competitive Programming Journey</h1>
   
@@ -10,10 +14,10 @@
   </a>
   <br>
 
-  [![Informatics](https://img.shields.io/badge/Major-Informatics-blue.svg)](#)
-  [![University](https://img.shields.io/badge/University-UKDW-purple.svg)](#)
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)](#)
+  <a href="#"><img src="https://img.shields.io/badge/Major-Informatics-blue.svg" alt="Informatics"></a>
+  <a href="#"><img src="https://img.shields.io/badge/University-UKDW-purple.svg" alt="University"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
+  <a href="#"><img src="https://img.shields.io/github/last-commit/username/repo-name" alt="GitHub last commit"></a>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
 
@@ -34,10 +38,10 @@
 <div align="center">
   <h2>🌐 Platforms</h2>
   <ul style="text-align: left; display: inline-block;">
-    <li>**[Codeforces](https://codeforces.com/)** - *Problem solving* berbasis kontes.</li>
-    <li>**[LeetCode](https://leetcode.com/)** - Persiapan *interview* dan optimalisasi struktur data.</li>
-    <li>**[HackerRank](https://www.hackerrank.com/)** - Tantangan algoritma spesifik dan logika formal.</li>
-    <li>**[TLX Toki](https://tlx.toki.id/)** - Latihan dasar dan olimpiade pemrograman.</li>
+    <li><b><a href="https://codeforces.com/">Codeforces</a></b> - <i>Problem solving</i> berbasis kontes.</li>
+    <li><b><a href="https://leetcode.com/">LeetCode</a></b> - Persiapan <i>interview</i> dan optimalisasi struktur data.</li>
+    <li><b><a href="https://www.hackerrank.com/">HackerRank</a></b> - Tantangan algoritma spesifik dan logika formal.</li>
+    <li><b><a href="https://tlx.toki.id/">TLX Toki</a></b> - Latihan dasar dan olimpiade pemrograman.</li>
   </ul>
   <br><br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
