@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2>🛠️ Tech Stack & Languages</h2>
-  <p>Bahasa pemrograman utama yang saya gunakan untuk memecahkan berbagai masalah algoritma, matematika diskrit, dan kriptografi:</p>
+  <p>Bahasa pemrograman utama yang saya gunakan untuk memecahkan berbagai masalah algoritma, dan pemrograman:</p>
   <br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -43,7 +43,7 @@
   <li><a href="#">HackerRank</a> - Tantangan algoritma spesifik dan logika formal.</li>
   <li><a href="#">TLX Toki</a> - Latihan dasar dan olimpiade pemrograman.</li>
 </ul>
-  <br><br>
+  
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/space.gif" width="100%">
 </div>
 
